@@ -17,6 +17,13 @@ h2 {
     margin-bottom: 20px;
 }
 
+div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
 button {
     border: none;
     padding-top: 10px;
